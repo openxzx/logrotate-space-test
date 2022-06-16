@@ -1,0 +1,1 @@
+Logrotate space test
